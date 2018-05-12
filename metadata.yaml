@@ -1,0 +1,29 @@
+_repo: The-Greville-Memoirs--Second-Part--Volume-1-of-3-_24504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greville, Charles
+    alias: Greville, Charles Cavendish Fulke
+    birthdate: 1794
+    deathdate: 1865
+    gutenberg_agent_id: '26534'
+    url: http://www.gutenberg.org/2009/agents/26534
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Cavendish_Fulke_Greville
+description: ''
+gutenberg_issued: '2008-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcc 'DA'
+title: "The Greville Memoirs, Part 2 (of 3), Volume 1 (of 3)\r\nA Journal of the Reign\
+  \ of Queen Victoria from 1837 to 1852"
+url: http://www.gutenberg.org/ebooks/24504
